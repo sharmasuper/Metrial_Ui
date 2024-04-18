@@ -1,0 +1,32 @@
+.navigation-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navigation-menu li{
+    margin:0px 20px;
+}
+
+.navigation-menu li a{
+    text-decoration: none;
+    color:white;
+}
+/* .mobbile-menu */
+.mobbile-menu{
+    list-style-type: none;
+    color:black;
+
+}
+.mobbile-menu li{
+    margin-top: 20px;
+   
+}
+.mobbile-menu li a{
+    text-decoration: none;
+    font-size: 1.4rem;
+
+  
+
+}
